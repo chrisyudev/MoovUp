@@ -1,10 +1,13 @@
 # MoovUp
 MoveUp-Android client 
 Moovup is a startup in hk and this is a simple clone with simple listview, cardviews and mapview
+
+<div align="center">
+    <img src="https://github.com/chrisyudev/MoovUp/blob/master/2.jpg?raw=true"</img> 
+</div>
+<div align="center">
+    <img src="https://github.com/chrisyudev/MoovUp/blob/master/3.jpg?raw=true"</img> 
+</div>
 <div align="center">
     <img src="https://github.com/chrisyudev/MoovUp/blob/master/1.jpg?raw=true"</img> 
 </div>
-
-![image](https://{content.fhkg3-1.fna.fbcdn.net/v/t1.0-9/53043127_10157340534427638_93072933441765376_n.jpg?_nc_cat=101&_nc_ht=scontent.fhkg3-1.fna&oh=295466b838784bdfc8760f44f274c183&oe=5CE2ED02})
-
-![image](https://{content.fhkg3-2.fna.fbcdn.net/v/t1.0-9/53184593_10157340534332638_3655538865688543232_n.jpg?_nc_cat=108&_nc_ht=scontent.fhkg3-2.fna&oh=7dbcbff80b042cbcdba4007dc276fd87&oe=5D1944AC})
